@@ -3,6 +3,8 @@ Links
 
 - You can insert links in text like [this](/tutorial.md)
 
+- [colours](https://www.w3schools.com/colors/colors_names.asp)
+
 - You may add a [title](https://agea.github.io/tutorial.md "Markdown Tutorial") to your link (can you see the tooltip?)
 
 - If your link contains spaces you have to write the [link](<http://example.com/a space>) between `<>`
